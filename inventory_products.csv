@@ -1,0 +1,12 @@
+product_id,name,category,price,quantity,reorder_level
+1,Rice 50kg,Basic Food,18000.0,12,5
+2,Cooking Oil 5L,Basic Food,9500.0,4,6
+3,Sugar 10kg,Basic Food,7200.0,9,5
+4,Notebook A4,Stationery,1200.0,30,10
+5,Ballpoint Pen,Stationery,300.0,50,20
+6,USB Flash 32GB,Electronics,4500.0,8,5
+7,Wireless Mouse,Electronics,6500.0,3,4
+8,Milk Powder,Dairy,3800.0,15,6
+9,Soap Bar,Cleaning,500.0,40,15
+10,Bleach 1L,Cleaning,1200.0,54,5
+11,Slapers,Plastics,1500.0,25,12
